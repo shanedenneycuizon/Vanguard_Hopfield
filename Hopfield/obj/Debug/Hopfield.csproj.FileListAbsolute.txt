@@ -1,0 +1,11 @@
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Hopfield Network Convert Lab\Hopfield\Hopfield\bin\Debug\Hopfield.exe.config
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Hopfield Network Convert Lab\Hopfield\Hopfield\bin\Debug\Hopfield.exe
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Hopfield Network Convert Lab\Hopfield\Hopfield\bin\Debug\Hopfield.pdb
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Hopfield Network Convert Lab\Hopfield\Hopfield\obj\Debug\Hopfield.csproj.AssemblyReference.cache
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Hopfield Network Convert Lab\Hopfield\Hopfield\obj\Debug\Hopfield.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Hopfield Network Convert Lab\Hopfield\Hopfield\obj\Debug\Hopfield.Form1.resources
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Hopfield Network Convert Lab\Hopfield\Hopfield\obj\Debug\Hopfield.Properties.Resources.resources
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Hopfield Network Convert Lab\Hopfield\Hopfield\obj\Debug\Hopfield.csproj.GenerateResource.cache
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Hopfield Network Convert Lab\Hopfield\Hopfield\obj\Debug\Hopfield.csproj.CoreCompileInputs.cache
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Hopfield Network Convert Lab\Hopfield\Hopfield\obj\Debug\Hopfield.exe
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Hopfield Network Convert Lab\Hopfield\Hopfield\obj\Debug\Hopfield.pdb
